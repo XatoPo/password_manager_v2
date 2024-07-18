@@ -4,7 +4,6 @@ Este proyecto es una herramienta para la encriptación y desencriptación de con
 
 Claro, aquí tienes la sección de explicación del proyecto añadida al README:
 
-```markdown
 # Password Manager
 
 Este proyecto es una herramienta para la encriptación y desencriptación de contraseñas usando Flex, Bison y OpenSSL. También incluye una interfaz gráfica hecha con PyQt5 para la gestión de contraseñas.
