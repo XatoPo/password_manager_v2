@@ -1,11 +1,5 @@
 # Password Manager
 
-Este proyecto es una herramienta para la encriptación y desencriptación de contraseñas usando Flex, Bison, y OpenSSL. También incluye una interfaz gráfica hecha con PyQt5 para la gestión de contraseñas.
-
-Claro, aquí tienes la sección de explicación del proyecto añadida al README:
-
-# Password Manager
-
 Este proyecto es una herramienta para la encriptación y desencriptación de contraseñas usando Flex, Bison y OpenSSL. También incluye una interfaz gráfica hecha con PyQt5 para la gestión de contraseñas.
 
 ## Estructura del Proyecto
